@@ -13,14 +13,14 @@ support older versions at the moment.
 Clone down this repository. You will need `node` and `npm` installed globally on your machine.
 
 ### Installation:
-Install npm modules:
+To Install npm modules:
 `npm install`
+
+To Install react-data-table-component:
 `npm install react-data-table-component`
 
 To Start Server:
 `npm start`
-
-
 
 To Visit App:
 `localhost:3000`
