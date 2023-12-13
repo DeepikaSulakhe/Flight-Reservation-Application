@@ -15,15 +15,19 @@ Clone down this repository. You will need `node` and `npm` installed globally on
 ### Installation:
 Install npm modules:
 `npm install`
+`npm install react-data-table-component`
 
 To Start Server:
 `npm start`
+
+
 
 To Visit App:
 `localhost:3000`
 
 In case of any errors (ensure the number of vulnerabilities is less than 10 - sometimes running twice helps!)
 `npm audit fix --force`
+
 
 Landing page is home.jsx, add all routes in it
 
